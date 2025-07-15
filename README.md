@@ -44,14 +44,6 @@ HotelBookingSystem/ │ ├── hotel.db                # SQLite3 database (au
 
 ---
 
-## 🎨 Logo
-
-You can use the following logo for your project/portfolio:
-
-![Hotel Booking Logo](assets/hotel_logo.png)
-
----
-
 ## ▶️ How to Run
 
 1. Install Python (if not already)
